@@ -1,0 +1,13 @@
+h1{color:rgb(33, 18, 170);font-family:'Courier New', Courier, monospace;font-size:900 in;text-align: center;}
+*{background-color:rgb(255, 240, 255);}
+a{word-spacing: 100 px;}
+p{font-size:large;color:hotpink;font-family:fantasy;}
+img{background-color:darkblue;border:solid;border-color: red;}
+ul{color:indigo;font-size:medium;font-family:cursive;list-style-type:square;}
+.origami_design{
+    display:flex;
+    justify-content:space-evenly;
+}
+.item{
+   justify-content: space-evenly;
+}
